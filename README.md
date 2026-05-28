@@ -6,7 +6,7 @@ Passionate about building modern, scalable, and high-performance web application
 
 ---
 
-## About Me
+## 🚀 About Me
 
 I am a dedicated Full-Stack Developer with more than 5 years of experience in web application development. I am highly motivated, adaptable, responsible, and a fast learner, with a strong passion for building scalable, efficient, and user-friendly applications.
 
@@ -21,14 +21,17 @@ I enjoy turning ideas into functional digital products and continuously improvin
 </p>
 
 ---
-
+<!-- 
 ## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=durango25&show_icons=true&theme=transparent" alt="GitHub stats" />
 </div>
+<!-- # Sistem Informasi Perpustakaan Berbasis Rest API 
+
 
 ---
+-->
 
 ## 🤝 Connect With Me
 
