@@ -85,7 +85,7 @@ Integrated government open data portal for data visualization, publication, and 
 
 ## 🏆 Achievements & Certifications
 
-- 🎓 Graduated Cumlaude
+- 🎓 Graduated Cum Laude
 - 🥇 Highest GPA — Information System Program
 - 📜 Certified Software Development Programmer
 - 🔐 Cyber Security Specialist Training
